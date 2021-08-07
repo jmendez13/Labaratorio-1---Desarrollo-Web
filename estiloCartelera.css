@@ -1,0 +1,42 @@
+
+img{
+border-style: ridge;
+}
+
+body {
+	background-image: url(Imagenes/fondoLogin.png);
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	margin: 0;
+	text-align: center;
+	height: 20px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid;
+	font-size: 14px;
+	font-family: Comic Sans MS;
+}
+
+h5 {
+	margin: 0;
+	text-align: center;
+	height: 40px;
+	margin-bottom: 30px;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+}
+
+table {
+   border-collapse: separate;
+   border-spacing: 50px 15px;
+   background: #4e4d4d;
+   color: #fff;
+}
+td, th {
+   background: #22487E;
+   color: #ffffff;
+   font-weight: bold;
+}
